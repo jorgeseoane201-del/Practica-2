@@ -1,2 +1,8 @@
-# Practica 2
-Aplicación Python de una tienda online con usuarios, productos y pedidos.
+# Practica 2 Tienda Online
+
+Autor: Jorge Seoane García
+
+Descripción: API REST desarrollada en Python con FastAPI que simula una tienda online.
+
+
+
